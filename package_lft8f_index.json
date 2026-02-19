@@ -15,8 +15,8 @@
           "version": "0.3.0",
           "category": "lgt8fx",
           "url": "https://github.com/sum1doe/AZ_CH340_Patch/raw/refs/heads/main/LGT8F.zip",
-          "archiveFileName": "AZ-Delivery-LGT8F.zip",
-	  "checksum": "SHA-256:3ae9f6981795baba26434507d7a567711fee8c7cfe0982cb477abb25284a9ee7",
+          "archiveFileName": "LGT8F.zip",
+	  "checksum": "SHA-256:fbdab67b60fbea92ec2e23eb50bc5b3c5ac0e3b569d87e570c803f09556672b1",
 	  "size": "1879903",
           "help": {
             "online": "www.az-delivery.de"
